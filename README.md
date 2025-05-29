@@ -1,12 +1,12 @@
 # Proyecto Final ASIR-Emiliano Sánchez Alonso
 
-## Developing... :gb::uk:
+## Developing... :gb:
 ## Build
 ```bash
 git clone https://github.com/3lk0j0/Proyecto-Final-ASIR-Emiliano-Sanchez-Alonso.git
 ```
 
-## Em Desenvolvimento... :brazil:
+## Em Desenvolvimento... :brazil::portugal:
 ## Construção
 ```bash
 git clone https://github.com/3lk0j0/Proyecto-Final-ASIR-Emiliano-Sanchez-Alonso.git
