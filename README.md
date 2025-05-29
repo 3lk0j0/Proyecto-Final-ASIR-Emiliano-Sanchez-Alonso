@@ -1,6 +1,6 @@
 # Proyecto Final ASIR-Emiliano Sánchez Alonso
 
-## Developing... :blush:
+## Developing... 🇬🇧::us:
 
 ## Build
 ```bash
