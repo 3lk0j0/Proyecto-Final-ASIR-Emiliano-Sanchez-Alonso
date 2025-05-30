@@ -1,6 +1,6 @@
 # Proyecto Final ASIR-Emiliano Sánchez Alonso
 
-## Developing... ![Gran Bretaña](https://countryflagsapi.com/png/mx) 
+## Developing... ![Gran Bretaña Flag](https://flagcdn.com/w20/gb.png) ![Estados Unidos](https://flagcdn.com/w20/us.png) ![Inglaterra Flag](https://flagcdn.com/w20/gb-eng.png) 
 ## Build
 ```bash
 git clone https://github.com/3lk0j0/Proyecto-Final-ASIR-Emiliano-Sanchez-Alonso.git
@@ -12,7 +12,7 @@ git clone https://github.com/3lk0j0/Proyecto-Final-ASIR-Emiliano-Sanchez-Alonso.
 git clone https://github.com/3lk0j0/Proyecto-Final-ASIR-Emiliano-Sanchez-Alonso.git
 ```
 
-## En Desarrollo... ![España](https://countryflagsapi.com/png/es)
+## En Desarrollo... ![España Flag](https://flagcdn.com/w20/es.png) 
 ## Construcción
 ```bash
 git clone https://github.com/3lk0j0/Proyecto-Final-ASIR-Emiliano-Sanchez-Alonso.git
