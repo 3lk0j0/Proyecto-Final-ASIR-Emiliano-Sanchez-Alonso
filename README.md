@@ -12,7 +12,7 @@ git clone https://github.com/3lk0j0/Proyecto-Final-ASIR-Emiliano-Sanchez-Alonso.
 git clone https://github.com/3lk0j0/Proyecto-Final-ASIR-Emiliano-Sanchez-Alonso.git
 ```
 
-## En Desarrollo... ![España Flag](https://flagcdn.com/w20/es.png) 
+## En Desarrollo... ## ![es](https://twemoji.maxcdn.com/v/latest/svg/1f1ea-1f1f8.svg)
 ## Construcción
 ```bash
 git clone https://github.com/3lk0j0/Proyecto-Final-ASIR-Emiliano-Sanchez-Alonso.git
