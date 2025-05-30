@@ -6,13 +6,13 @@
 git clone https://github.com/3lk0j0/Proyecto-Final-ASIR-Emiliano-Sanchez-Alonso.git
 ```
 
-## Em Desenvolvimento... ![Brasil Flag](https://flagcdn.com/w20/br.png) ![Portugal Flag](https://flagcdn.com/w20/pt.png) 
+## Em Desenvolvimento... <img src="https://raw.githubusercontent.com/3lk0j0/flags/main/br.png" alt="Bandera de Brasil" width="20"><img src="https://raw.githubusercontent.com/3lk0j0/flags/main/pt.png" alt="Bandera de Portugal" width="20">
 ## Construção
 ```bash
 git clone https://github.com/3lk0j0/Proyecto-Final-ASIR-Emiliano-Sanchez-Alonso.git
 ```
 
-## En Desarrollo... ![Bandera de México](https://raw.githubusercontent.com/3lk0j0/flags/main/es.png)
+## En Desarrollo... <img src="https://raw.githubusercontent.com/3lk0j0/flags/main/es.png" alt="Bandera de España" width="20">
 ## Construcción
 ```bash
 git clone https://github.com/3lk0j0/Proyecto-Final-ASIR-Emiliano-Sanchez-Alonso.git
