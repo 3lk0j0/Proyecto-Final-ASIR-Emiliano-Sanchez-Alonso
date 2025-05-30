@@ -6,8 +6,7 @@
 git clone https://github.com/3lk0j0/Proyecto-Final-ASIR-Emiliano-Sanchez-Alonso.git
 ```
 
-:brazil::portugal: 
-## Em Desenvolvimento... 
+## Em Desenvolvimento... ![Brasiil Flag](https://flagcdn.com/w40/br.png) Brasil
 ## Construção
 ```bash
 git clone https://github.com/3lk0j0/Proyecto-Final-ASIR-Emiliano-Sanchez-Alonso.git
