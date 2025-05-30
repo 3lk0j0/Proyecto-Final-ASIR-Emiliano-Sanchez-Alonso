@@ -1,6 +1,6 @@
 # Proyecto Final ASIR-Emiliano Sánchez Alonso
 
-## Developing... <img src="https://raw.githubusercontent.com/3lk0j0/flags/main/gb-eng.png" alt="Bandera de Inglaterra">
+## Developing... <img src="https://raw.githubusercontent.com/3lk0j0/flags/main/gb-eng.png" alt="Bandera de Inglaterra"><img src="https://raw.githubusercontent.com/3lk0j0/flags/main/gb.png" alt="Bandera de Gran Bretaña">
 ## Build
 ```bash
 git clone https://github.com/3lk0j0/Proyecto-Final-ASIR-Emiliano-Sanchez-Alonso.git
