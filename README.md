@@ -12,7 +12,7 @@ git clone https://github.com/3lk0j0/Proyecto-Final-ASIR-Emiliano-Sanchez-Alonso.
 git clone https://github.com/3lk0j0/Proyecto-Final-ASIR-Emiliano-Sanchez-Alonso.git
 ```
 
-## En Desarrollo... ![Bandera de México](flags/mx.png)
+## En Desarrollo... ![Bandera de México](flags @ 245322e/flags/mx.png)
 ## Construcción
 ```bash
 git clone https://github.com/3lk0j0/Proyecto-Final-ASIR-Emiliano-Sanchez-Alonso.git
