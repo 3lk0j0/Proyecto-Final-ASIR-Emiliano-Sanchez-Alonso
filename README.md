@@ -6,7 +6,7 @@
 git clone https://github.com/3lk0j0/Proyecto-Final-ASIR-Emiliano-Sanchez-Alonso.git
 ```
 
-## Em Desenvolvimento... <img src="https://raw.githubusercontent.com/3lk0j0/flags/main/br.png" alt="Bandera de Brasil" width="20"><img src="https://raw.githubusercontent.com/3lk0j0/flags/main/pt.png" alt="Bandera de Portugal" width="22">
+## Em Desenvolvimento... <img src="https://raw.githubusercontent.com/3lk0j0/flags/main/br.png" alt="Bandera de Brasil" width="17"><img src="https://raw.githubusercontent.com/3lk0j0/flags/main/pt.png" alt="Bandera de Portugal" width="19">
 ## Construção
 ```bash
 git clone https://github.com/3lk0j0/Proyecto-Final-ASIR-Emiliano-Sanchez-Alonso.git
